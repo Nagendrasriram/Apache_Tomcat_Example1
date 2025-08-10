@@ -1,7 +1,3 @@
-Alright mama 😎🔥
-Here’s your **upgraded professional README.md** for your Spring Boot + JSP project, GitHub-ready with emojis, badges, and a stylish look.
-
----
 
 ```markdown
 # 🚀 Spring Boot + JSP Demo App
