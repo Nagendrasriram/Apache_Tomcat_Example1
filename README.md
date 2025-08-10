@@ -2,11 +2,6 @@
 ```markdown
 # 🚀 Spring Boot + JSP Demo App
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green)
-![Maven](https://img.shields.io/badge/Maven-Build-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 A **simple Spring Boot web application** using **JSP** as the view layer.  
 This project demonstrates the setup of JSP with Spring Boot, controller mappings, and basic web page rendering.
 
