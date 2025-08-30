@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🚀 Spring Boot + JSP Demo App
 
 A **simple Spring Boot web application** using **JSP** as the view layer.  
